@@ -1,3 +1,4 @@
+import './index.css'
 import './assets/styles/main.css'
 import App from './app.js'
 

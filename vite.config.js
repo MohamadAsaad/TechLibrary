@@ -1,9 +1,10 @@
 import { defineConfig } from 'vite'
+import tailwindcss from '@tailwindcss/vite'
 import { resolve } from 'path'
 
 export default defineConfig({
   root: '.',
-  base: '/library/',
+  base: '/TechLibrary/',
   build: {
     outDir: 'dist',
     rollupOptions: {
@@ -15,6 +16,7 @@ export default defineConfig({
     minify: 'terser',
     sourcemap: false,
   },
+  plugins: [tailwindcss()],
   server: {
     port: 3000,
     open: true,

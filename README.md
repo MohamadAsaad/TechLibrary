@@ -39,3 +39,18 @@ npm run build
 
 # معاينة الإصدار النهائي
 npm run preview
+```
+
+## نشر على GitHub Pages
+
+في PowerShell على Windows، استخدم:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\deploy.ps1
+```
+
+إذا أردت نشرًا بدون الدفع إلى GitHub مباشرة، استخدم:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\deploy.ps1 -SkipPush
+```
