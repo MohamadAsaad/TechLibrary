@@ -1,0 +1,23 @@
+{
+  "name": "techlibrary",
+  "version": "1.0.0",
+  "description": "TechLibrary - Arabic RTL digital knowledge base",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "fuse.js": "^7.0.0",
+    "gsap": "^3.12.5",
+    "highlight.js": "^11.9.0",
+    "marked": "^11.1.0",
+    "swiper": "^11.0.7"
+  },
+  "devDependencies": {
+    "terser": "^5.48.0",
+    "vite": "^5.0.0"
+  }
+}

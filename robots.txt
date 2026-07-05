@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techlibrary.com/sitemap.xml

@@ -1,0 +1,29 @@
+{
+  "siteName": "TechLibrary",
+  "siteDescription": "مكتبتك التقنية الشخصية والمعرفية - استكشف آلاف المقالات والأدوات",
+  "siteUrl": "https://techlibrary.com",
+  "language": "ar",
+  "direction": "rtl",
+  "logo": "/images/logo.png",
+  "favicon": "/favicon.ico",
+  "social": {
+    "twitter": "https://twitter.com/techlibrary",
+    "github": "https://github.com/techlibrary",
+    "youtube": "https://youtube.com/techlibrary",
+    "linkedin": "https://linkedin.com/company/techlibrary"
+  },
+  "analytics": {
+    "enabled": false,
+    "id": ""
+  },
+  "ads": {
+    "enabled": false
+  },
+  "comments": {
+    "enabled": false
+  },
+  "maintenance": {
+    "enabled": false,
+    "message": "نحن نقوم بتحسين الموقع، نعتذر عن أي إزعاج."
+  }
+}

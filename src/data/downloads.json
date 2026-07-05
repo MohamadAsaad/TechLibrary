@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "VS Code - محرر الأكواد",
+    "description": "محرر الأكواد الأكثر شعبية للمطورين مع دعم كامل للغات البرمجة المختلفة.",
+    "version": "1.89.0",
+    "license": "MIT",
+    "platform": ["Windows", "macOS", "Linux"],
+    "fileSize": "85 MB",
+    "officialWebsite": "https://code.visualstudio.com",
+    "githubRepository": "https://github.com/microsoft/vscode",
+    "downloads": [
+      {
+        "name": "تحميل مباشر (Windows)",
+        "url": "https://code.visualstudio.com/download",
+        "type": "direct"
+      },
+      {
+        "name": "تحميل مباشر (macOS)",
+        "url": "https://code.visualstudio.com/download",
+        "type": "direct"
+      },
+      {
+        "name": "تحميل مباشر (Linux)",
+        "url": "https://code.visualstudio.com/download",
+        "type": "direct"
+      }
+    ],
+    "category": "أدوات التطوير",
+    "tags": ["editor", "code", "development"],
+    "featured": true,
+    "published": true
+  },
+  {
+    "id": "2",
+    "title": "Git - نظام التحكم بالنسخ",
+    "description": "نظام التحكم بالنسخ الموزع الأكثر استخداماً في عالم البرمجة.",
+    "version": "2.45.0",
+    "license": "GPL-2.0",
+    "platform": ["Windows", "macOS", "Linux"],
+    "fileSize": "45 MB",
+    "officialWebsite": "https://git-scm.com",
+    "githubRepository": "https://github.com/git/git",
+    "downloads": [
+      {
+        "name": "تحميل مباشر (Windows)",
+        "url": "https://git-scm.com/download/win",
+        "type": "direct"
+      },
+      {
+        "name": "تحميل مباشر (macOS)",
+        "url": "https://git-scm.com/download/mac",
+        "type": "direct"
+      },
+      {
+        "name": "تحميل مباشر (Linux)",
+        "url": "https://git-scm.com/download/linux",
+        "type": "direct"
+      }
+    ],
+    "category": "أدوات التطوير",
+    "tags": ["git", "version-control", "devops"],
+    "featured": true,
+    "published": true
+  }
+]
